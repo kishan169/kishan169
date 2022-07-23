@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am full Stack Developer lookin to solve real world Problem. I have passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something, I created, please feel free to give me a shout @kishan169 or give some on mail. Feel free to contact any time these are my contact list.
+
 
 Here are some ideas to get you started:
 
