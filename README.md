@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - SPRINGBOOT
 - Hibernate & MEVEN
 
-
 Mailbox:  Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@KishanSavaj-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/KishanSavaj1206)  [![Linkedin Badge](https://img.shields.io/badge/-KishanSavaj-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-savaj-5769a8b3/)  [![Mail Badge](https://img.shields.io/badge/-KishanSavaj1206-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kishansavaj1206@gmail.com)
@@ -60,7 +59,6 @@ Mailbox:  Reach me out!
 <br />
 <br />
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishan169&show_icons=true&theme=radical)
 
 
