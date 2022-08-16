@@ -2,16 +2,6 @@
 
 I am full Stack Developer lookin to solve real world Problem. I have passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something, I created, please feel free to give me a shout @kishan169 or give some on mail. Feel free to contact any time these are my contact list.
 
-
-Here are some ideas to get you started:
-
-- HTML & CSS
-- JAVASCRIPT
-- JAVA
-- SQL
-- SPRINGBOOT
-- Hibernate & MEVEN
-
 Mailbox:  Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@KishanSavaj-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/KishanSavaj1206)  [![Linkedin Badge](https://img.shields.io/badge/-KishanSavaj-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-savaj-5769a8b3/)  [![Mail Badge](https://img.shields.io/badge/-KishanSavaj1206-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kishansavaj1206@gmail.com)
