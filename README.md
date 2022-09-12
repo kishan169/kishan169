@@ -1,5 +1,3 @@
-<p align="center"><img src="animation.gif" width="55%"></p>
-<div style=" font-size: medium; " align=center>
 
 Hi 👋 My name is KISHAN SAVAJ
 =============================
