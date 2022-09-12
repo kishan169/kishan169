@@ -1,5 +1,5 @@
 <p align="center"><img src="animation.gif" width="55%"></p>
-<div style=" font-size: medium; " align=left>
+<div style=" font-size: medium; " align=center>
 
 Hi 👋 My name is KISHAN SAVAJ
 =============================
@@ -14,7 +14,8 @@ Tech enthusiast who love to build apps that are interesting and useful and a pas
  -  I hold Bachelour's degree in Automobile I become Java Backend Developer.
 
 
-
+<br>
+<br>
 <h2><i>Let's Connect</i></h2>
 <p align="left">
     <a href="https://www.linkedin.com/in/kishan-savaj-5769a8b3/">
