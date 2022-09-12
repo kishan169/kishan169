@@ -1,9 +1,10 @@
 <p align="center"><img src="animation.gif" width="55%"></p>
 <div style=" font-size: medium; " align=left>
 
-<p align = "center" style = "font-size:30px">
-    I am  Kishan (Backend Developer) 
-</p>
+Hi 👋 My name is KISHAN SAVAJ
+=============================
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
 Tech enthusiast who love to build apps that are interesting and useful and a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems sparkles.
 <br>
@@ -58,3 +59,4 @@ Tech enthusiast who love to build apps that are interesting and useful and a pas
 
 
 <h1 align="center"> Thank You ❤</h1>
+<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
