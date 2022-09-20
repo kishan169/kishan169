@@ -22,10 +22,10 @@ Tech enthusiast who love to build apps that are interesting and useful and a pas
     <a href="https://twitter.com/KishanSavaj1206">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/KishanSavaj1206" />
     </a>
-    <a href="https://kishansavaj.netlify.app/">
+    <a href="https://kishansavaj.netlify.app//">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://kishansavaj.netlify.app/" />
     </a>
-    <a title="kishansavaj1206@gmail.com" href="https://drive.google.com/file/d/1WiVG__gCwXvX1ZiwhA04rKa6ak2XkgBq/view?usp=sharing">
+    <a title="kishansavaj1206@gmail.com" href="https://drive.google.com/file/d/1X6bnfC32RjwFktpK6mUxwgapg2CQb0-e/view?usp=sharing">
         <img align="center" src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=resume&logoColor=white" alt="kishansavaj1206@gmail.com" />
     </a>
     <a title="kishansavaj1206@gmail.com" href="mailto:kishansavaj1206@gmail.com">
@@ -53,7 +53,7 @@ Tech enthusiast who love to build apps that are interesting and useful and a pas
 
 <a href="http://www.github.com/kishan169"><img src="https://activity-graph.herokuapp.com/graph?username=kishan169&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/gautam6023" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan169&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/kishan169" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan169&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
