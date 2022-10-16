@@ -7,7 +7,7 @@ Hi 👋 My name is KISHAN SAVAJ
 Tech enthusiast who love to build apps that are interesting and useful and a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems sparkles.
 <br>
 <br>
- -  I’m actively looking for oppurtunity with revolutionary company.
+ <li>I’m actively looking for oppurtunity with revolutionary company.</li>
  -  Fun fact: I ride bicycle and go to the GYM very often.
  -  I hold Bachelour's degree in Automobile I become Java Backend Developer.
 
