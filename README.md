@@ -8,8 +8,8 @@ Tech enthusiast who love to build apps that are interesting and useful and a pas
 <br>
 <br>
  <li>I’m actively looking for oppurtunity with revolutionary company.</li>
- -  Fun fact: I ride bicycle and go to the GYM very often.
- -  I hold Bachelour's degree in Automobile I become Java Backend Developer.
+ <li> Fun fact: I ride bicycle and go to the GYM very often.</li>
+ <li>  I hold Bachelour's degree in Automobile I become Java Backend Developer.</li>
 
 
 <br>
