@@ -4,11 +4,11 @@ Hi 👋 My name is KISHAN SAVAJ
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
-Tech enthusiast who love to build apps that are interesting and useful and a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems sparkles.
+<h3>Tech enthusiast who love to build apps that are interesting and useful and a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems sparkles.</h3>
 <br>
 <br>
  <li>I’m actively looking for oppurtunity with revolutionary company.</li>
- <li> Fun fact: I ride bicycle and go to the GYM very often.</li>
+ <li> Observant and intuitive problem-solver, focussed on writing clean, elegant and efficient code</li>
  <li>  I hold Bachelour's degree in Automobile I become Java Backend Developer.</li>
 
 
