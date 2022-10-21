@@ -2,9 +2,12 @@
 Hi 👋 My name is KISHAN SAVAJ
 =============================
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
+
 
 <h3>Tech enthusiast who loves to building apps that are interesting and useful and a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems sparkles.</h3>
+
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
 - I’m actively looking for an opportunity with a revolutionary company.
 
