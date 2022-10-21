@@ -8,7 +8,7 @@ Hi 👋 My name is KISHAN SAVAJ
 
  <li>I’m actively looking for an opportunity with a revolutionary company.</li>
  <li> I'm an observant and intuitive problem-solver, focused on writing clean, elegant, and efficient code.</li>
- <li> I hold a bachelor's degree in Automobile I become a Java Backend Developer.</li>
+ 
 
 
 <br>
