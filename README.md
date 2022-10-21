@@ -6,9 +6,11 @@ Hi 👋 My name is KISHAN SAVAJ
 
 <h3>Tech enthusiast who loves to building apps that are interesting and useful and a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems sparkles.</h3>
 
-/* <li>I’m actively looking for an opportunity with a revolutionary company.</li>
- <li> I'm an observant and intuitive problem-solver, focused on writing clean, elegant, and efficient code.</li>*/
- - 🔭 I’m currently working on **springboot API**
+- I’m actively looking for an opportunity with a revolutionary company.
+
+- I'm an observant and intuitive problem-solver, focused on writing clean, elegant, and efficient code.
+
+- 🔭 I’m currently working on **springboot API**
 
 - 🌱 I’m currently learning **implementation of springboot on project**
 
