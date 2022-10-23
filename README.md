@@ -9,7 +9,7 @@
 <br>
 <br>
 
-- 💬 I'm an observant and intuitive problem solver, focused on writing clean, elegant, and efficient code.
+
 
 - 🔭 I’m currently working on **springboot API**
 
